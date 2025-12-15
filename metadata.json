@@ -1,0 +1,7 @@
+{
+  "name": "WanderGen AI Trip Planner (Python)",
+  "description": "A Flask-based intelligent travel planning application featuring Gemini AI, customized itineraries, and a sleek Black Mode UI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
